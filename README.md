@@ -2,17 +2,15 @@
 
 ## Contributing
 
-If you're interested in contributing to this project, please reach out to krayontheman on Discord. Send a DM and friend request to get started!
+If you're interested in contributing to this project, please reach out to @krayontheman on Discord. Send a DM explaining how you'd like to contribute and friend request so that I know that you aren't spam.
 
-When submitting changes, please do so via a Pull Request (PR). In your PR description, clearly explain what you changed, what you implemented, and include screenshots if necessary to illustrate your changes.
+When submitting changes, please do so via a Pull Request. In your PR description, clearly explain what you changed, what you implemented, and include screenshots if necessary to illustrate your changes.
 
 ## Inspiration
 
 As the Event Coordinator for SAFA (Student Association of Filipino Americans), I observed that me and my fellow e-board members would often have to schedule posts either by mentally remembering or writing it down on a to-do list. This was the inspiration for this project.
 
 I wanted to streamline this process by creating a tool that would schedule Discord announcements via an accessible web dashboard.
-
-Please feel free to pick up any issues.
 
 > Note: The web dashboard is purposely password locked to prohibit the public from scheduling announcements
 
