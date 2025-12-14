@@ -20,14 +20,14 @@ I wanted to streamline this process by creating a tool that would schedule Disco
 ## 📂 General Portfolio Structure
 ```
 safa-message-scheduler/
-├── frontend/                                      # Frontend components and pages
+├── frontend/                         # Frontend components and pages
 │   ├── src/
 │   │   └── app/
-│   │       ├── api/auth/[kindeAuth]             # Callback API endpoint for Kinde authentication
-│   │       ├── dashboard                        # Scheduling dashboard frontend code
-│   │       ├── scheduled-posts                  # A "Scheduled Posts" page that is currently not implemented
-│   │       └── send-message                     # API route for creating EventBridge Schedules
-└── aws/                                           # The Python code that's currently deployed to AWS Lambda
+│   │       ├── api/auth/[kindeAuth]  # Callback API endpoint for Kinde authentication
+│   │       ├── dashboard             # Scheduling dashboard frontend code
+│   │       ├── scheduled-posts       # A "Scheduled Posts" page that is currently not implemented
+│   │       └── send-message          # API route for creating EventBridge Schedules
+└── aws/                              # The Python code that's currently deployed to AWS Lambda
 ```
 
 ## 🤝 Contributing
