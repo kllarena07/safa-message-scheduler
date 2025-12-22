@@ -44,6 +44,6 @@ The `frontend` directory is just a NextJS 15 application. As such:
 2. `pnpm install`
 3. `pnpm run dev`
 
-Make sure to also use the necessary environment variables and store them in a `.env.local` file in the root  of the `frontend` directory.
+ sure to also use the necessary environment variables and store them in a `.env.local` file in the root  of the `frontend` directory.
 
 _Made with ❤️ by [krayondev](https://x.com/krayondev)_
