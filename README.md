@@ -3,6 +3,8 @@
 
 As the Event Coordinator for SAFA (Student Association of Filipino Americans), I observed that me and my fellow e-board members would often have to schedule posts either by mentally remembering or writing it down on a to-do list. This was the inspiration for this project.
 
+![DEMO-GIF](./frontend/public/DEMOGIF.gif)
+
 I wanted to streamline this process by creating a tool that would schedule Discord announcements via an accessible web dashboard.
 
 > Note: The web dashboard is purposely password locked to prohibit the public from scheduling announcements
