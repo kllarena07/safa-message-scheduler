@@ -33,7 +33,7 @@ safa-message-scheduler/
 ```
 
 ## 🤝 Contributing
-If you're interested in contributing to this project, please reach out to @krayontheman on Discord. Send a DM explaining how you'd like to contribute and friend request so that I know that you aren't spam.
+If you're interested in contributing to this project, please reach out to @krayontheman on Discord. Send a DM explaining how you'd like to contribute and friend request so that I know that you aren't a bot.
 
 When submitting changes, please do so via a Pull Request. In your PR description, clearly explain what you changed, what you implemented, and include screenshots if necessary to illustrate your changes.
 
